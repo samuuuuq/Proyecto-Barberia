@@ -1,0 +1,1 @@
+<img src="./Imagenes/barberia_2.png" class="d-block w-100 mt-5" alt="...">

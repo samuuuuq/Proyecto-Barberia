@@ -1,0 +1,1 @@
+<h3 class="mt-5 text-dark"><center>Beards And Company<br>Ven y experimenta nuestra <b>Barberia Tradicional</b></center></h3>
